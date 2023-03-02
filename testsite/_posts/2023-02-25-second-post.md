@@ -16,7 +16,7 @@ Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit number
 Jekyll also offers powerful support for code snippets:
 
 <div class="video-container">
-    <iframe src="https://www.twitch.tv/videos/1752999023" height="315" width="560" allowfullscreen="" frameborder="0">
+    <iframe src="https://www.twitch.tv/videos/1752999023&parent=pages.tomadamski.net&parent=localhost" height="315" width="560" allowfullscreen="" frameborder="0">
     </iframe>
 </div>
 
