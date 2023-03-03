@@ -1,38 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-03-01T18:54:04-08:00</updated><id>/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">2nd post</title><link href="/jekyll/update/2023/02/25/second-post.html" rel="alternate" type="text/html" title="2nd post" /><published>2023-02-25T00:00:00-08:00</published><updated>2023-02-25T00:00:00-08:00</updated><id>/jekyll/update/2023/02/25/second-post</id><content type="html" xml:base="/jekyll/update/2023/02/25/second-post.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-03-03T15:55:43-08:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Future Episode</title><link href="/2023/03/25/future-episode.html" rel="alternate" type="text/html" title="Future Episode" /><published>2023-03-25T11:30:00-07:00</published><updated>2023-03-25T11:30:00-07:00</updated><id>/2023/03/25/future-episode</id><content type="html" xml:base="/2023/03/25/future-episode.html"><![CDATA[<p>25 March 2023</p>
 
-<p>Jekyll requires blog post files to be named according to the following format:</p>
+<h1> Future Episode </h1>
 
-<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
-
-<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
-
-<p>Jekyll also offers powerful support for code snippets:</p>
+<p>Future Episode</p>
 
 <div class="video-container">
-    <iframe src="https://player.twitch.tv/?video=1748046511&amp;parent=pages.tomadamski.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
+    <iframe src="https://player.twitch.tv/?video=aws&amp;parent=pages.tomadamski.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
     </iframe>
-</div>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[25 March 2023]]></summary></entry><entry><title type="html">Networking Ask Me Anything with Jamie and Matt</title><link href="/2023/03/02/net-ama.html" rel="alternate" type="text/html" title="Networking Ask Me Anything with Jamie and Matt" /><published>2023-03-02T10:30:00-08:00</published><updated>2023-03-02T10:30:00-08:00</updated><id>/2023/03/02/net-ama</id><content type="html" xml:base="/2023/03/02/net-ama.html"><![CDATA[<p>2 March 2023</p>
 
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+<h1> Networking Ask Me Anything with Jamie and Matt </h1>
 
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name>Bob</name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="/jekyll/update/2023/02/24/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-02-24T16:56:34-08:00</published><updated>2023-02-24T16:56:34-08:00</updated><id>/jekyll/update/2023/02/24/welcome-to-jekyll</id><content type="html" xml:base="/jekyll/update/2023/02/24/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<p>Jamie and Matt answer questions in this Ask Me Anything Episode (AMA)</p>
 
-<p>Jekyll requires blog post files to be named according to the following format:</p>
+<div class="video-container">
+    <iframe src="https://player.twitch.tv/?video=1753782428&amp;parent=pages.tomadamski.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
+    </iframe>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[2 March 2023]]></summary></entry><entry><title type="html">Advanced VPC design, and Application Architectures</title><link href="/2023/02/23/advanced-vpc.html" rel="alternate" type="text/html" title="Advanced VPC design, and Application Architectures" /><published>2023-02-23T10:30:00-08:00</published><updated>2023-02-23T10:30:00-08:00</updated><id>/2023/02/23/advanced-vpc</id><content type="html" xml:base="/2023/02/23/advanced-vpc.html"><![CDATA[<p>23 February 2023</p>
 
-<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+<h1> Advanced VPC design, and Application Architectures </h1>
 
-<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+<p>Jamie and Matt cover VPC networking.</p>
 
-<p>Jekyll also offers powerful support for code snippets:</p>
+<div class="video-container">
+    <iframe src="https://player.twitch.tv/?video=1747798356&amp;parent=pages.tomadamski.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
+    </iframe>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[23 February 2023]]></summary></entry><entry><title type="html">Building highly available Multi-AZ/Multi-region applications</title><link href="/2023/02/16/building-ha.html" rel="alternate" type="text/html" title="Building highly available Multi-AZ/Multi-region applications" /><published>2023-02-16T10:30:00-08:00</published><updated>2023-02-16T10:30:00-08:00</updated><id>/2023/02/16/building-ha</id><content type="html" xml:base="/2023/02/16/building-ha.html"><![CDATA[<p>16 February 2023</p>
 
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+<h1> Building highly available Multi-AZ/Multi-region applications </h1>
 
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry></feed>
+<p>Stu, AWS Principal Produc Manager for AWS Infrastructure is discussing resilience and designing your networking across multiple AWS Regions and AWS Availability Zones.</p>
+
+<div class="video-container">
+    <iframe src="https://player.twitch.tv/?video=1745817855&amp;parent=pages.tomadamski.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
+    </iframe>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[16 February 2023]]></summary></entry></feed>
