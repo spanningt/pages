@@ -20,7 +20,7 @@ permalink: /hosts/
 <div class="row">
   <div class="col-md-4 mb-5">
     <div class="card border-0 shadow h-100">
-      <img class="card-img-top" src="http://placeholder.pics/svg/400x300/3cb371-3cb371/3cb371-3cb371" alt="" />
+      <img class="card-img-top" src="/assets/image/alex.jpeg" alt="" />
       <div class="card-body">
         <h4 class="card-title">Name Surname</h4>
         <p class="card-text">
@@ -34,7 +34,7 @@ permalink: /hosts/
   </div>
   <div class="col-md-4 mb-5">
     <div class="card border-0 shadow h-100">
-      <img class="card-img-top" src="http://placeholder.pics/svg/400x300/3cb371-3cb371/3cb371-3cb371" alt="" />
+      <img class="card-img-top" src="/assets/image/jamie.png" alt="" />
       <div class="card-body">
         <h4 class="card-title">Name Surname</h4>
         <p class="card-text">
@@ -48,7 +48,7 @@ permalink: /hosts/
   </div>
   <div class="col-md-4 mb-5">
     <div class="card border-0 shadow h-100">
-      <img class="card-img-top" src="http://placeholder.pics/svg/400x300/3cb371-3cb371/3cb371-3cb371" alt="" />
+      <img class="card-img-top" src="/assets/image/mat.jpg" alt="" />
       <div class="card-body">
         <h4 class="card-title">Name Surname</h4>
         <p class="card-text">
@@ -62,7 +62,7 @@ permalink: /hosts/
   </div>
   <div class="col-md-4 mb-5">
     <div class="card border-0 shadow h-100">
-      <img class="card-img-top" src="http://placeholder.pics/svg/400x300/3cb371-3cb371/3cb371-3cb371" alt="" />
+      <img class="card-img-top" src="/assets/image/riggs.jpg" alt="" />
       <div class="card-body">
         <h4 class="card-title">Name Surname</h4>
         <p class="card-text">
@@ -76,7 +76,7 @@ permalink: /hosts/
   </div>
   <div class="col-md-4 mb-5">
     <div class="card border-0 shadow h-100">
-      <img class="card-img-top" src="http://placeholder.pics/svg/400x300/3cb371-3cb371/3cb371-3cb371" alt="" />
+      <img class="card-img-top" src="/assets/image/sid.jpg" alt="" />
       <div class="card-body">
         <h4 class="card-title">Name Surname</h4>
         <p class="card-text">
@@ -90,7 +90,7 @@ permalink: /hosts/
   </div>
   <div class="col-md-4 mb-5">
     <div class="card border-0 shadow h-100">
-      <img class="card-img-top" src="http://placeholder.pics/svg/400x300/3cb371-3cb371/3cb371-3cb371" alt="" />
+      <img class="card-img-top" src="/assets/image/tom.jpeg" alt="" />
       <div class="card-body">
         <h4 class="card-title">Name Surname</h4>
         <p class="card-text">
