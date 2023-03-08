@@ -1,11 +1,12 @@
 ---
 layout: default
-title:  "Episode Title"
+title:  "Networking with AWS API Gateway"
 videoid:
-date:   2023-03-25 10:30:00 -0800
-abstract: "Episode focused on X"
-hosts: "Host 1, Host2"
-guests: "Guest1 Name, Principal Engineer, Guest2 Name, Senior Engineer"
+date:   2023-03-23 10:30:00 -0800
+abstract: "We'll go over the networking aspects of AWS API Gateway service. This includes executing the API (from 
+the Internet or privately from other VPCs) as well as backend integrations."
+hosts: "Tom Adamski"
+guests: "Giedrius Praspaliauskas, Senior Solutions Architect specializing in Serverless"
 ---
 {{ page.date | date: "%-d %B %Y" }}
 
