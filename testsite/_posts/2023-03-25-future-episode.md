@@ -18,18 +18,15 @@ guests: "Guest1 Name, Principal Engineer, Guest2 Name, Senior Engineer"
 
 
 {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
-{% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
+{% capture posttime %}{{page.date | date: '%s'}}{% endcapture %}
 {% if posttime < nowunix %}   
 <div class="video-container">
     <iframe src="https://player.twitch.tv/?video={{ page.videoid }}&parent=pages.tomadamski.net&parent=127.0.0.1&autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
     </iframe>
 </div>
  
-
 {% else %}
 <p>Session hasn't started. Join live on <b>{{ page.date | date: "%-d %B %Y" }} at 10:30AM PST </b><p>
-
-
 <div class="video-container">
     <iframe src="https://player.twitch.tv/?channel=aws&parent=pages.tomadamski.net&parent=127.0.0.1&autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
     </iframe>
